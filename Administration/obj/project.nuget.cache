@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyC06iXgvbw/he48/0/NZxxq+gTmYkjMtfSTmS4lP3WzXGClYMd8OMzV3+DX2RCjtStEgis0wh+oibUHmFV71A==",
+  "success": true,
+  "projectFilePath": "/data/loli/Desktop/ПМ.03/System/Program/Administration/Administration.csproj",
+  "expectedPackageFiles": [
+    "/home/loli/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/loli/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/home/loli/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.4/microsoft.windowsdesktop.app.ref.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
